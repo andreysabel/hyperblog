@@ -58,3 +58,10 @@ img{
     height: auto;
     vertical-align: middle;
 }
+
+footer{
+    background-color: coral;
+    color: black;
+    text-align: center;
+    padding: 1rem;
+}
