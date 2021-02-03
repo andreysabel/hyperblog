@@ -52,3 +52,10 @@ h1{
 #post{
     padding: 0.8rem;
 }
+
+footer{
+    background-color: rosybrown;
+    color: black;
+    padding: 1rem;
+    text-align: center;
+}
